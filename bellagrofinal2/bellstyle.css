@@ -1,0 +1,20 @@
+body{
+  color: rgb(150, 0, 150);
+  background-color: orange;
+}
+header{
+  color: green;
+  background-color: pink;
+
+}
+nav{
+  background-color: white;
+
+}
+.title{
+  color: white;
+}
+#email{
+  color: red;
+  background-color: white;
+}
